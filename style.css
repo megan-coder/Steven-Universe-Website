@@ -1,0 +1,17 @@
+body {
+		text-align: center;
+	     background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/44566b78-9453-4180-a5a6-e38179bb7b20/d92jv3c-6d362854-c8ee-4e2f-af67-b0709577d01d.png/v1/fill/w_1024,h_638,q_80,strp/steven_universe_background_sky_practice_by_bitnarukami_d92jv3c-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02MzgiLCJwYXRoIjoiXC9mXC80NDU2NmI3OC05NDUzLTQxODAtYTVhNi1lMzgxNzliYjdiMjBcL2Q5Mmp2M2MtNmQzNjI4NTQtYzhlZS00ZTJmLWFmNjctYjA3MDk1NzdkMDFkLnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.2lPbbZEmLSq9DX4eseRGE6sAfiB92TVKmWgRFpi5Ymg');
+}
+
+img{
+	height: 350px;
+	border-style: dashed;
+	border-color: deeppink;
+}
+
+.carousel-inner p {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	color: white;
+	font-size: 20;
+}
